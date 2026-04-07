@@ -37,7 +37,7 @@ Add member management system
 Improve UI design
 Add due date tracking
 
-👨‍💻 Author
+👨‍💻 Author :
 TJD Hewawitharana
  ADS perera
 PHGTS piyarathna
